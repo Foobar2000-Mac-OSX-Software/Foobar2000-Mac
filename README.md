@@ -9,7 +9,7 @@
 
 <img src="https://store-images.s-microsoft.com/image/apps.7585.14129859039794057.a03cfbf7-9a2f-4e91-8317-31849ebc4090.db605239-5b99-4aec-9945-b93e32d995ae?h=210" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/foobar2000">
+<a href="https://mac-apps-install.github.io/.github/foobar2000">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
